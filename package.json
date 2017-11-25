@@ -11,8 +11,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.2",
-    "fast-safe-stringify": "latest"
+    "express": "^4.16.2"
   },
   "engines": {
     "node": "8.x"
